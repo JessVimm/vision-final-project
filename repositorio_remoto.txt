@@ -1,0 +1,19 @@
+En esta entrega se mandan:
+-La presentación en .pdf,
+-El artículo también en .pdf.
+
+Agregamos este archivo para referenciar nuestro repositorio remoto.
+Que claramente también está referenciado dentro del artículo en la sección 1. 
+
+Así que, si les es de preferencia, les damos la opción de copiarlo desde 
+este archivo y colocarlo en su búscador preferido:
+
+https://github.com/JessVimm/vision-final-project
+
+Dentro del repositorio remoto verán el código en python, imágenes y animaciones que
+no están dentro del reporte, y también tendrán acceso a la presentación y al reporte.
+
+Por favor les sugerimos que lean atentamente el readme presente en el repositorio
+remoto.
+
+Saludos y buen fin de semestre.
