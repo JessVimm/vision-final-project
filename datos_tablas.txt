@@ -1,0 +1,220 @@
+Objeto 1: lucy
+Objeto 2: lucy
+
+Voxeles lucy: 93450
+Voxeles lucy: 93450
+
+Voxeles Comunes (Intersección): 15000
+Sobrantes (Positivos): 0
+Huecos (Negativos): 0
+
+Costo de Trabajo total: 0.0000
+
+Distancia mínima: 0.0
+Distancia máxima: 0.0
+Distancia promedio: 0.0
+Desviación estándar: 0.0
+
+---------------------------
+Objeto 1: lucy
+Objeto 2: torus
+
+Voxeles lucy: 93450
+Voxeles torus: 149336
+
+Voxeles Comunes (Intersección): 3316
+Sobrantes (Positivos): 11684
+Huecos (Negativos): 11684
+
+Costo de Trabajo total: 169193.5352
+
+Distancia mínima: 1.0000
+Distancia máxima: 38.6911
+Distancia promedio: 14.4808
+Desviación estándar: 6.0248
+
+-------------------------
+
+Objeto 1: lucy
+Objeto 2: brain
+
+Voxeles lucy: 93450
+Voxeles brain: 345972
+
+Voxeles Comunes (Intersección): 6448
+Sobrantes (Positivos): 8552
+Huecos (Negativos): 8552
+
+Costo de Trabajo total: 167036.0527
+
+Distancia mínima: 1.0000
+Distancia máxima: 41.7852
+Distancia promedio: 19.5318
+Desviación estándar: 7.3831
+
+--------------------------------
+Objeto 1: lucy
+Objeto 2: lion
+Voxeles lucy: 93450
+Voxeles lion: 90940
+Voxeles Comunes (Intersección): 8040
+Sobrantes (Positivos): 6960
+Huecos (Negativos): 6960
+Costo de Trabajo total: 98533.0296
+
+Distancia mínima: 1.0000
+Distancia máxima: 36.5650
+Distancia promedio: 14.1570
+Desviación estándar: 7.4166
+------------------------------
+Objeto 1: lucy
+Objeto 2: pear
+Voxeles lucy: 93450
+Voxeles pear: 10754
+Voxeles Comunes (Intersección): 1559
+Sobrantes (Positivos): 13441
+Huecos (Negativos): 13441
+Costo de Trabajo total: 185958.6813
+Distancia mínima: 1.0000
+Distancia máxima: 38.1314
+Distancia promedio: 13.8352
+Desviación estándar: 5.9609
+------------------------------
+
+Objeto 1: lucy
+Objeto 2: cow
+
+Voxeles lucy: 93450
+Voxeles cow: 2903
+Voxeles Comunes (Intersección): 117
+Sobrantes (Positivos): 14883
+Huecos (Negativos): 14883
+
+Costo de Trabajo total: 367375.0450
+
+Distancia mínima: 1.0000
+Distancia máxima: 61.4085
+Distancia promedio: 24.6842
+Desviación estándar: 12.1522
+--------------------------------
+
+Objeto 1: lucy
+Objeto 2: horse
+Voxeles lucy: 93450
+Voxeles horse: 101001
+Voxeles Comunes (Intersección): 7015
+Sobrantes (Positivos): 7985
+Huecos (Negativos): 7985
+Costo de Trabajo total: 110824.5677
+
+Distancia mínima: 1.0000
+Distancia máxima: 47.0744
+Distancia promedio: 13.8791
+Desviación estándar: 7.5514
+
+--------------------------------
+Objeto 1: torus
+Objeto 2: torus
+
+Voxeles torus: 149336
+Voxeles torus: 149336
+Voxeles Comunes (Intersección): 15000
+Sobrantes (Positivos): 0
+Huecos (Negativos): 0
+Costo de Trabajo total: 0.0000
+
+Distancia mínima: 0.0
+Distancia máxima: 0.0
+Distancia promedio: 0.0
+Desviación estándar: 0.0
+
+-------------------------------
+
+Objeto 1: torus
+Objeto 2: horse
+Voxeles torus: 149336
+Voxeles horse: 101001
+Voxeles Comunes (Intersección): 3383
+Sobrantes (Positivos): 11617
+Huecos (Negativos): 11617
+Costo de Trabajo total: 136052.8534
+
+Distancia mínima: 1.0000
+Distancia máxima: 27.2213
+Distancia promedio: 11.7115
+Desviación estándar: 4.9968
+----------------------------------
+
+Objeto 1: torus
+Objeto 2: cow
+Voxeles torus: 149336
+Voxeles cow: 2903
+Voxeles Comunes (Intersección): 338
+Sobrantes (Positivos): 14662
+Huecos (Negativos): 14662
+Costo de Trabajo total: 380381.0318
+
+Distancia mínima: 1.0000
+Distancia máxima: 67.8086
+Distancia promedio: 25.9433
+Desviación estándar: 14.7060
+---------------------------------
+
+Objeto 1: torus
+Objeto 2: pear
+Voxeles torus: 149336
+Voxeles pear: 10754
+
+Voxeles Comunes (Intersección): 1615
+Sobrantes (Positivos): 13385
+Huecos (Negativos): 13385
+Costo de Trabajo total: 139225.0912
+
+Distancia mínima: 1.0000
+Distancia máxima: 31.4006
+Distancia promedio: 10.4016
+Desviación estándar: 5.7362
+---------------------------------
+
+Objeto 1: torus
+Objeto 2: lion
+Voxeles torus: 149336
+Voxeles lion: 90940
+Voxeles Comunes (Intersección): 4081
+Sobrantes (Positivos): 10919
+Huecos (Negativos): 10919
+Costo de Trabajo total: 130969.2285
+
+Distancia mínima: 1.0000
+Distancia máxima: 27.2213
+Distancia promedio: 11.9946
+Desviación estándar: 4.8771
+-----------------------------------
+Objeto 1: torus
+Objeto 2: lucy
+
+Voxeles torus: 149336
+Voxeles lucy: 93450
+Voxeles Comunes (Intersección): 3316
+Sobrantes (Positivos): 11684
+Huecos (Negativos): 11684
+Costo de Trabajo total: 169193.5352
+
+Distancia mínima: 1.0000
+Distancia máxima: 38.6911
+Distancia promedio: 14.4808
+Desviación estándar: 6.0333
+-----------------------------------
+Objeto 1: torus
+Objeto 2: brain
+Voxeles torus: 149336
+Voxeles brain: 345972
+Voxeles Comunes (Intersección): 1442
+Sobrantes (Positivos): 13558
+Huecos (Negativos): 13558
+Costo de Trabajo total: 169405.6728
+
+Distancia mínima: 1.0000
+Distancia máxima: 27.0370
+Distancia promedio: 12.4949
+Desviación estándar: 4.5249

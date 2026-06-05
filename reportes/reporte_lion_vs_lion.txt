@@ -1,0 +1,52 @@
+========== RESULTADOS DE SIMILITUD ==========
+
+Objeto 1: lion
+Objeto 2: lion
+Tamaño de Voxel (Voxel size): 1.495317
+
+========== DATOS GEOMÉTRICOS ==========
+
+Voxeles lion: 90940
+Voxeles lion: 90940
+
+--- lion ---
+Centroide: [110.1058  69.1962  54.8958]
+Tensor de Inercia:
+[[ 1.50367179e+08  6.18735951e+07 -2.09881102e+07]
+ [ 6.18735951e+07  4.15949365e+08 -2.37105825e+06]
+ [-2.09881102e+07 -2.37105825e+06  4.84130951e+08]]
+Eigenvalores: [1.35514309e+08 4.28827686e+08 4.86105500e+08]
+Eigenvectores:
+[[ 0.975  -0.2067 -0.0814]
+ [-0.2146 -0.971  -0.1052]
+ [ 0.0572 -0.1201  0.9911]]
+
+--- lion ---
+Centroide: [110.1058  69.1962  54.8958]
+Tensor de Inercia:
+[[ 1.50367179e+08  6.18735951e+07 -2.09881102e+07]
+ [ 6.18735951e+07  4.15949365e+08 -2.37105825e+06]
+ [-2.09881102e+07 -2.37105825e+06  4.84130951e+08]]
+Eigenvalores: [1.35514309e+08 4.28827686e+08 4.86105500e+08]
+Eigenvectores:
+[[ 0.975  -0.2067 -0.0814]
+ [-0.2146 -0.971  -0.1052]
+ [ 0.0572 -0.1201  0.9911]]
+
+========== DIFERENCIA DE VOXELES ==========
+
+Voxeles Comunes (Intersección): 15000
+Sobrantes (Positivos): 0
+Huecos (Negativos): 0
+
+========== TRANSPORTE ÓPTIMO ==========
+
+Costo de Trabajo total: 0.0000
+
+Distancia mínima: 0.0
+Distancia máxima: 0.0
+Distancia promedio: 0.0
+Desviación estándar: 0.0
+
+========== ASIGNACIONES (Mapeo Húngaro) ==========
+

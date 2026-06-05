@@ -1,0 +1,52 @@
+========== RESULTADOS DE SIMILITUD ==========
+
+Objeto 1: lucy
+Objeto 2: lucy
+Tamaño de Voxel (Voxel size): 1.351249
+
+========== DATOS GEOMÉTRICOS ==========
+
+Voxeles lucy: 93450
+Voxeles lucy: 93450
+
+--- lucy ---
+Centroide: [ 73.9069 118.0287  42.3606]
+Tensor de Inercia:
+[[ 5.24016169e+08 -3.02959177e+07 -3.84647430e+06]
+ [-3.02959177e+07  8.24268610e+07 -2.86213322e+07]
+ [-3.84647430e+06 -2.86213322e+07  5.48513781e+08]]
+Eigenvalores: [7.85908990e+07 5.25939174e+08 5.50426737e+08]
+Eigenvectores:
+[[-0.0683  0.9944 -0.0811]
+ [-0.9958 -0.0729 -0.0556]
+ [-0.0612  0.077   0.9951]]
+
+--- lucy ---
+Centroide: [ 73.9069 118.0287  42.3606]
+Tensor de Inercia:
+[[ 5.24016169e+08 -3.02959177e+07 -3.84647430e+06]
+ [-3.02959177e+07  8.24268610e+07 -2.86213322e+07]
+ [-3.84647430e+06 -2.86213322e+07  5.48513781e+08]]
+Eigenvalores: [7.85908990e+07 5.25939174e+08 5.50426737e+08]
+Eigenvectores:
+[[-0.0683  0.9944 -0.0811]
+ [-0.9958 -0.0729 -0.0556]
+ [-0.0612  0.077   0.9951]]
+
+========== DIFERENCIA DE VOXELES ==========
+
+Voxeles Comunes (Intersección): 15000
+Sobrantes (Positivos): 0
+Huecos (Negativos): 0
+
+========== TRANSPORTE ÓPTIMO ==========
+
+Costo de Trabajo total: 0.0000
+
+Distancia mínima: 0.0
+Distancia máxima: 0.0
+Distancia promedio: 0.0
+Desviación estándar: 0.0
+
+========== ASIGNACIONES (Mapeo Húngaro) ==========
+
