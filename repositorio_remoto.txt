@@ -2,11 +2,11 @@ En esta entrega se mandan:
 -La presentación en .pdf,
 -El artículo también en .pdf.
 
-Agregamos este archivo para referenciar nuestro repositorio remoto.
-Que claramente también está referenciado dentro del artículo en la sección 1. 
+Agregamos un archivo extra para referenciar nuestro repositorio remoto.
+También está referenciado dentro del artículo en la sección 1. 
 
 Así que, si les es de preferencia, les damos la opción de copiarlo desde 
-este archivo y colocarlo en su búscador preferido:
+este archivo y colocarlo en su buscador preferido:
 
 https://github.com/JessVimm/vision-final-project
 
